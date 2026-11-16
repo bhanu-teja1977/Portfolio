@@ -1,13 +1,11 @@
 <!--Banner-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,26&height=220&section=header&text=Aitha%20Bhanu%20Teja&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&descAlign=50" width="100%" alt="Bhanu Teja Header Banner"/>
-</p>
+![Banner Image](./banner.jpg)
 
 <div align="center">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm **Bhanu Teja**! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Competitive+Programmer+(LeetCode+1844)+%F0%9F%8F%86;Explainable+AI+%26+High-Throughput+APIs+%E2%9A%A1;Digital+Twin+Systems+%26+Distributed+Design+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Competitive+Programmer+(LeetCode+1844)+%F0%9F%8F%86;Explainable+AI+%26+High-Throughput+APIs+%E2%9A%A1;Digital+Twin+Systems+%26+Distributed+Design+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -63,7 +61,7 @@ LeetCode Rating: **1844** (Top 11.39%) • CodeChef: **Div 3 (1530)** • **490+
 </a>
 
 <a href="mailto:bhanuteja1977@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=flat-square&logoColor=white&labelColor=EA4335" alt="Email" height="28"/>
+<img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="28"/>
 </a>
 
 <a href="https://github.com/bhanu-teja1977" target="_blank">
@@ -654,7 +652,7 @@ As **PR Coordinator** for the **ISTE Student Chapter** and **Wing Master & Progr
 <tr>
 <td width="30%" align="center">
 
-### 🧑💻 **Meet Bhanu Teja**
+### 🧑‍💻 **Meet Bhanu Teja**
 
 **🤖 AI/ML Engineer**  
 **💻 Full-Stack Developer**  
@@ -685,10 +683,10 @@ As **PR Coordinator** for the **ISTE Student Chapter** and **Wing Master & Progr
 <img src="https://img.shields.io/badge/💻_GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/>
 </a>
 <a href="https://leetcode.com/u/bhanuteja190707/" target="_blank">
-<img src="https://img.shields.io/badge/⚡_LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="25"/>
+<img src="https://img.shields.io/badge/⚡_LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode" height="25"/>
 </a>
 <a href="https://www.codechef.com/users/bhanuteja1977" target="_blank">
-<img src="https://img.shields.io/badge/🍲_CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" height="25"/>
+<img src="https://img.shields.io/badge/🍲_CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white&labelColor=5B4638" alt="CodeChef" height="25"/>
 </a>
 <a href="https://aitha-bhanu-teja.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" height="25"/>
